@@ -1,0 +1,36 @@
+div{
+    height: 400px;
+    width: 400px;
+
+    border-width: 20px;
+    border-style: solid;
+    border-color: rgba(116, 159, 64, 0.78);
+    
+
+    background-image: url(girassol.jpg);
+    text-align: center;
+    box-shadow: inset 3px 12px 20px 15px  rgb(31, 32, 32);
+    background-size: cover;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+    outline-width: 20px;
+    outline-style: double;
+    outline-color: rgba(177, 181, 166, 0.952);
+
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+p{
+    padding-top: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    color: rgba(220, 98, 6, 0.995);
+    font-weight: bold;
+}
